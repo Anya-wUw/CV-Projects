@@ -1,5 +1,5 @@
 # CV-Projects 🚀  
-My collection of projects focused on training and improving machine learning skills in object detection, segmentation, and retrieval tasks.
+My collection of projects focused on training and improving skills in Computer Vision.
 
 ---
 
